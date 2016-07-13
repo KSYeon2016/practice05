@@ -11,6 +11,6 @@ public class SoundTest {
 	
 	public static void printSound( Soundable soundable ) {
 		System.out.println( soundable.sound() );
-		
 	}
+	
 }
